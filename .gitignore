@@ -195,4 +195,4 @@ dist-ssr
 *.sw?
 
 # Machine Learning model files (too large for GitHub)
-*.pkl
+# (Tracked with Git LFS instead)
